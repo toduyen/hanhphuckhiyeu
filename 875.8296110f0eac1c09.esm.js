@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[875],{bQRY:(e,n,s)=>{s.r(n),s.d(n,{default:()=>a});var t=s("ERkP"),u=s("jg1C");function r(){return(0,u.jsx)(t.Fragment,{})}const a=t.memo(r)}}]);
