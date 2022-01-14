@@ -1,7 +1,7 @@
 {
   "name": "Nhật ký nông nghiệp thông minh",
   "short_name": "Nhật ký nông nghiệp thông minh",
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#143055",
   "background_color": "#143055",
