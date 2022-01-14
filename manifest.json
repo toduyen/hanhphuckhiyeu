@@ -1,6 +1,6 @@
 {
-  "name": "MyApp",
-  "short_name": "MyApp",
+  "name": "Nhật ký nông nghiệp thông minh",
+  "short_name": "Nhật ký nông nghiệp thông minh",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#143055",
